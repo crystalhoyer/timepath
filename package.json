@@ -8,6 +8,7 @@
     "test": "test"
   },
   "dependencies": {
+    "express": "^4.16.3",
     "wget": "^0.0.1"
   },
   "devDependencies": {},
