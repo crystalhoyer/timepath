@@ -1,0 +1,27 @@
+{
+  "name": "timepath",
+  "version": "0.0.0",
+  "description": "Time is yours. Treat it well.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "wget": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crystalhoyer/timepath.git"
+  },
+  "author": "Crystal Hoyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crystalhoyer/timepath/issues"
+  },
+  "homepage": "https://github.com/crystalhoyer/timepath#readme"
+}
